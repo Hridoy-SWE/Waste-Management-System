@@ -1,6 +1,0 @@
------- Invoice ------
-Username: hridoy
-Address: bogura
-Payment: $0.00
-Date: 2024-05-18
----------------------
